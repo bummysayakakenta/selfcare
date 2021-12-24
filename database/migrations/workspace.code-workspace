@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\inetpub\\wwwroot"
+		},
+		{
+			"path": "\\\\192.168.21.250\\wwwroot\\"
+		},
+		{
+			"path": "..\\..\\..\\..\\kaikei\\kaikei-app"
+		},
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\laravel-bookrecord\\backend\\bookrecord5"
+		}
+	],
+	"settings": {}
+}
